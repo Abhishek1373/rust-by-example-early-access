@@ -1,0 +1,1 @@
+/home/lance/Documents/random\ programs/rust_progs/tetris/target/debug/tetris: /home/lance/Documents/random\ programs/rust_progs/tetris/src/subfolder/another_file.rs /home/lance/Documents/random\ programs/rust_progs/tetris/src/main.rs /home/lance/Documents/random\ programs/rust_progs/tetris/src/subfolder/mod.rs
